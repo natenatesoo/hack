@@ -96,7 +96,7 @@ Click on the circle in the top right. You should see a black drop down menu appe
    <img width="251" height="320" src="/docs/assets/metamask-guide/m-4.png">
 </p>
 
-Click on the **Log out** button in the top right of this menu. You'll be taken to a Welcome Back page.
+Click on the **LOCK** button in the top right of this menu. You'll be taken to a Welcome Back page.
 
 <p align="center">
    <img width="188" height="320" src="/docs/assets/metamask-guide/m-5.png">
@@ -113,7 +113,7 @@ explain tackle mirror kit van hammer degree position ginger unfair soup bogus
 
 These 12 words phrase will allow us to use MetaMask to access an account that has permission to update the Counter in our Counter app.
 
-> Note that your mnemonic phrase won't be the same as mine. So make sure you copy yours from your terminal, and not from this blog.
+> Note that your mnemonic phrase MAY not be the same as mine. So make sure you copy yours from your terminal, and not from this blog.
 
 Once you've copied it, paste it into the wallet seed text box, and create a new password.
 
